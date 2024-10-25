@@ -1,0 +1,1 @@
+This directory contains a bunch of shell and python scripts used to run different commands
