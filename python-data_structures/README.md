@@ -1,0 +1,1 @@
+This is directory containing python scripts related to data structures
