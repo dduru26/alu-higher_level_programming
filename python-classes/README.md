@@ -1,0 +1,1 @@
+This is a directory containing scripts and functions about classes and objects
