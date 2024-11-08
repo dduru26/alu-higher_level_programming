@@ -1,0 +1,1 @@
+This directory contains a list of python functions that are related to the python-inheritance topic
