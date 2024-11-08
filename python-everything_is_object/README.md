@@ -1,0 +1,1 @@
+This directory contains .txt files under the "everything is object" pythonn topic
