@@ -1,0 +1,1 @@
+This directory contains sql file related to the "more queries" chapter
