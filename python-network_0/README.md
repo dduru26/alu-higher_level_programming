@@ -1,0 +1,1 @@
+This direcctory contain bash scripts relating to the python-network 0 task
