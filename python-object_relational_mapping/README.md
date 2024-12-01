@@ -1,0 +1,1 @@
+This directory contains python files related to the object_relational_mapping task
