@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="141b9b2f-b3e6-4765-8fa4-f350601c8c8c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../0-readme.js" beforeDir="false" />
@@ -38,9 +35,6 @@
   "associatedIndex": 8
 }]]></component>
   <component name="ProjectId" id="2t9uL68wqqyRFVoCK6x52PIe5nk" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,10 +45,6 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "/Users/mac/Documents/ALU/Javascript/alu-higher_level_programming/javascript-web_jquery",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -74,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739776552693</updated>
-      <workItem from="1739776553931" duration="386000" />
+      <workItem from="1739776553931" duration="47000" />
     </task>
     <servers />
   </component>
